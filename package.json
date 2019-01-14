@@ -1,0 +1,20 @@
+{
+  "name": "solobserver",
+  "version": "1.1.0",
+  "description": "\"\"\u001b[D\u001b[Observing Solar Input\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ehawk82/solObserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ehawk82/solObserver/issues"
+  },
+  "homepage": "https://github.com/Ehawk82/solObserver#readme"
+}
