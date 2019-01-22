@@ -1,7 +1,7 @@
 {
   "name": "solobserver",
-  "version": "1.2.0",
-  "description": "\"\"\u001b[D\u001b[Observing Solar Input\"",
+  "version": "1.3.0",
+  "description": "Observing Solar Input",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Ehawk82/solObserver/issues"
   },
-  "homepage": "https://github.com/Ehawk82/solObserver#readme"
+  "homepage": "https://github.com/Ehawk82/solObserver#readme",
+  "devDependencies": {
+    "gScript2019": "file:../gScript2019"
+  }
 }
