@@ -16,8 +16,7 @@ formula:
 
 </code>
 
-<textarea class="voltage"> &nbsp; voltage</textarea>
-<textarea class="miliamps"> &nbsp; miliamps</textarea>
+
 <details><summary>details</summary>
 	<p>E = Energy</p>
     <p>A = Total solar panel Area</p>
