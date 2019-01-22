@@ -15,6 +15,9 @@ formula:
 	E = A * r * H * PR
 
 </code>
+
+<input type='range' />
+
 <details><summary>details</summary>
 	<p>E = Energy</p>
     <p>A = Total solar panel Area</p>
