@@ -16,7 +16,7 @@ formula:
 
 </code>
 
-<input type='range' />
+<input type="text" id="volts" name="volts"/>
 
 <details><summary>details</summary>
 	<p>E = Energy</p>
