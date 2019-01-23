@@ -2,3 +2,7 @@ body {
     background-color: black;
     color:silver;
 }
+input[type='text'] {
+	background-color: : 0 0 5px silver;
+	color:maroon;
+}
