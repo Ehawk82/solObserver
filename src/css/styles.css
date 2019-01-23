@@ -6,3 +6,26 @@ input[type='text'] {
 	background-color: : 0 0 5px silver;
 	color:maroon;
 }
+
+.imgs {
+    background-color: white;
+    height:45px;
+    width:55px;
+}
+.containers {
+
+}
+.imgWrapper {
+    height:45px;
+clear:left;
+    width:55px;
+
+}
+.ins {
+	font-size:1.9em;
+    
+    height:39px;
+}
+.ins, .imgWrapper {
+    float:left;
+}
